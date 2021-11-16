@@ -21,3 +21,9 @@ with Username: admin
      Password:12345@user
      
 5. To access the admin panel just type http://127.0.0.1:8000/admin after starting the server.
+
+6. Also to create a new databse you should apply cmd
+    python manage.py makemigrations
+    python manage.py migrate
+    
+Can refer to,Detailed explanation for how to run a cloned repository from github - https://alicecampkin.medium.com/setting-up-a-forked-django-project-53d5939b7e9e

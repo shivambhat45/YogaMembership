@@ -29,5 +29,5 @@ with Username: admin
 Can refer to,Detailed explanation for how to run a cloned repository from github - https://alicecampkin.medium.com/setting-up-a-forked-django-project-53d5939b7e9e
 
 Some ScreenShots
-
-![](Screenshot (272).png)
+![image](https://user-images.githubusercontent.com/56789373/141942448-6ae44651-b148-4bbd-a35b-28fbcc1b0057.png)
+![image](https://user-images.githubusercontent.com/56789373/141942534-cbe13bbc-1fab-47f3-9703-04b7eb8f9ba6.png)

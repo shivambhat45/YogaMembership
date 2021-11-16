@@ -27,3 +27,8 @@ with Username: admin
     python manage.py migrate
     
 Can refer to,Detailed explanation for how to run a cloned repository from github - https://alicecampkin.medium.com/setting-up-a-forked-django-project-53d5939b7e9e
+
+Some ScreenShots
+
+![](img/Screenshot (272).png)
+![](img/Screenshot (273).png)

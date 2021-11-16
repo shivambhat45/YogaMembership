@@ -30,5 +30,4 @@ Can refer to,Detailed explanation for how to run a cloned repository from github
 
 Some ScreenShots
 
-![](img/Screenshot (272).png)
-![](img/Screenshot (273).png)
+![](Screenshot (272).png)
